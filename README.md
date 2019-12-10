@@ -2,6 +2,9 @@
 
 英語では `cards`, `playing cards` という。
 
+## Unicode
+- [Playing cards in Unicode - Wikipedia](https://en.wikipedia.org/wiki/Playing_cards_in_Unicode)
+
 ## Libraries
 
 ### C#
