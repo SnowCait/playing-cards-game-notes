@@ -12,6 +12,8 @@
 
 ### C#
 - [Playing Cards - CodeProject](https://www.codeproject.com/Articles/28958/Playing-Cards)
+- [Xyaneon/Xyaneon.Games.Cards: A .NET Standard library for playing cards (standard and custom), draw piles and shuffling.](https://github.com/Xyaneon/Xyaneon.Games.Cards)
+- [Cards Game Library - CodeProject](https://www.codeproject.com/Articles/28940/Cards-Game-Library)
 
 ### Python
 - [PyDealer: Playing Card Package — PyDealer: Playing Card Package 1.4.0 documentation](https://pydealer.readthedocs.io/en/latest/)
